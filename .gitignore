@@ -12,7 +12,7 @@ gen
 go.work
 main
 XrayR
-XrayR*
+XrayR.exe
 access.log
 error.log
 .lego
